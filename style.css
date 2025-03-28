@@ -57,8 +57,9 @@ article {
     padding: 65px 45px 130px 45px;
     width: 400px;
     margin: 20px;
-    justify-content: space-around;
     display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
 }
 
 .article-but {
