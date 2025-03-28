@@ -58,6 +58,7 @@ article {
     width: 400px;
     margin: 20px;
     justify-content: space-around;
+    display: flex;
 }
 
 .article-but {
